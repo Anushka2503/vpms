@@ -89,7 +89,11 @@ This project was developed for educational purposes only as a part of Project-Ba
 
 ## 👩‍💻 Contributors
 
+<<<<<<< HEAD
 - Anushka Salve 
+=======
+- Anushka Salve  
+>>>>>>> a5aa2185df36035317975ae9264f457f19df2768
 
 
 ---
