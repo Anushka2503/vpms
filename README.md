@@ -89,8 +89,8 @@ This project was developed for educational purposes only as a part of Project-Ba
 
 ## 👩‍💻 Contributors
 
-- Anushka Salve (Team Member)  
-- [Add names of other team members if desired]
+- Anushka Salve 
+
 
 ---
 
